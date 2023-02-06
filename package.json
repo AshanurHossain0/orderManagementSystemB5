@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/AshanurHossain0/orderManagementSystemB5.git"
   },
+  "engines": {
+    "npm": ">=8.0.0 <9.0.0",
+    "node": ">=16.0.0 <17.0.0"
+  },
   "author": "Tapaswee Samantaray,Sagar Maan,Soumyaranjan Pradhan,Ashanur Hossain",
   "license": "ISC",
   "bugs": {
